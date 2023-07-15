@@ -1,6 +1,10 @@
 ILAMB 2.5 Release
 =================
 
+This branch adds a ConfSoilMoisture routine that enables users to plot
+the same diagnostics as the single-level variables as well as 
+correlation maps and trends for soil moisture across multiple soil layers.
+
 We are pleased to announce a new version of the ILAMB package. In
 addition to a new version, the ILAMB repository is now hosted at:
 
